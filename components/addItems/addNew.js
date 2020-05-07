@@ -50,7 +50,7 @@ const AddNewComponent = () => {
             </div>
             <div className="form-group">
                 <button type='submit' className="btn btn-primary">Submit</button>
-                <Link href='/listitems'><button className="m-3 btn btn-secondary">View List</button></Link>
+                <Link href='/listItems'><button className="m-3 btn btn-secondary">View List</button></Link>
             </div>
         </form>
         </>
