@@ -8,7 +8,7 @@ const Index = () => {
       <div className='mb-4 title'>
         <h2>Simple Expense <span className="text-danger">Tracker</span></h2>
       </div>
-      <Link href='/listitems'>
+      <Link href='/listItems'>
         <button className="btn btn-primary">View List</button>
       </Link>
     </div>
