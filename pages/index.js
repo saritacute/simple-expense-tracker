@@ -6,7 +6,7 @@ const Index = () => {
     <Layout>
     <div className='container mb-3'>
       <div className='mb-4 title'>
-        <h2>Simple Expense <span className="text-danger">Tracker</span></h2>
+        <h2>Expense <span className="text-danger">Tracker</span></h2>
       </div>
       <Link href='/listItems'>
         <button className="btn btn-primary">View List</button>
